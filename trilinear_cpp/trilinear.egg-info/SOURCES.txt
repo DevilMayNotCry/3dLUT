@@ -1,0 +1,12 @@
+setup.py
+setup.sh
+src/trilinear.cpp
+src/trilinear.h
+src/trilinear_cuda.cpp
+src/trilinear_cuda.h
+src/trilinear_kernel.cu
+src/trilinear_kernel.h
+trilinear.egg-info/PKG-INFO
+trilinear.egg-info/SOURCES.txt
+trilinear.egg-info/dependency_links.txt
+trilinear.egg-info/top_level.txt
