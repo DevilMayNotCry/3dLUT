@@ -17,6 +17,8 @@ Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement 
      
      !python3 setup.py install
      
+     cd Image-Adaptive-3DLUT
+     
      !python3 image_adaptive_lut_train_paired.py --input_dir <dir with images> 
                                                  --input_color_space <XYZ - for png, sRGB - for jpg> 
                                                  --n_cpu 2 
