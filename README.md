@@ -24,6 +24,8 @@ Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement 
                                                  --n_cpu 2 
                                                  --batch_size 1
                                                  --output_dir <directory for results>
+                                                 --epoch <start epoch>
+                                                 --n_epoch <max_epoch>
                                                  
 #### Input dir structure:
     input_dir - | raw - dir with raw images
